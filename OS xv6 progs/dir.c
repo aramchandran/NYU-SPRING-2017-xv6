@@ -66,5 +66,5 @@ int main()
     closedir(mydir);
     }
     else
-        printf("Directory not found");
+        printf("Directory not found\n");
 }
